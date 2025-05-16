@@ -34,7 +34,7 @@ const About = () => {
                 />
               </div>
               <div className="absolute -bottom-2 -right-2 bg-background rounded-full p-2 shadow-lg">
-                <Badge className="text-sm px-3 py-1">VR Developer</Badge>
+                <Badge className="text-sm px-3 py-1">AR/VR Enthusiast</Badge>
               </div>
             </motion.div>
           </div>
@@ -45,13 +45,16 @@ const About = () => {
               Hi, I'm <span className="text-primary">Jaimin Shimpi</span>
             </h1>
             <h2 className="text-xl md:text-2xl text-muted-foreground mb-6">
-              Virtual Reality Developer & UX Designer
+              XR Developer & Machine Learning Engineer
             </h2>
             <p className="text-lg mb-6">
-              I create immersive VR experiences that blend cutting-edge
-              technology with thoughtful design. With 7+ years of experience in
-              XR development, I specialize in building applications that solve
-              real-world problems through virtual environments.
+              I design immersive experiences that combine real-time 3D
+              interaction with machine learning intelligence. With expertise in
+              Unity, WebXR, and cross-platform deployment, I build applications
+              that transform how we train, learn, and interact — from industrial
+              XR systems to AI-powered simulations. My work is focused on
+              solving real problems through thoughtful, scalable virtual
+              solutions.
             </p>
             <div className="flex flex-wrap gap-3 mb-8">
               <Badge variant="outline" className="text-sm px-3 py-1">
@@ -91,11 +94,13 @@ const About = () => {
             <CardContent className="pt-6">
               <h3 className="text-xl font-semibold mb-4">My Approach</h3>
               <p className="text-muted-foreground">
-                I believe in creating VR experiences that are not just
-                technically impressive, but also intuitive and accessible. My
-                work focuses on solving real problems through immersive
-                technology, whether it's training simulations, educational
-                tools, or interactive entertainment.
+                I believe in building VR experiences that are technically
+                sophisticated yet highly intuitive. My approach centers on using
+                immersive technology to address practical challenges — whether
+                it's through hands-on industrial training simulations,
+                intelligent AR overlays for education, or real-time
+                collaborative environments. Every experience I design is
+                grounded in usability, system efficiency, and long-term impact.
               </p>
             </CardContent>
           </Card>
@@ -103,11 +108,14 @@ const About = () => {
             <CardContent className="pt-6">
               <h3 className="text-xl font-semibold mb-4">Background</h3>
               <p className="text-muted-foreground">
-                With a background in computer science and human-computer
-                interaction, I bring a unique perspective to VR development.
-                I've worked with startups, research labs, and enterprise clients
-                to deliver VR solutions that push boundaries while remaining
-                practical and user-focused.
+                With a dual foundation in computer science and immersive
+                technology, I’ve had the opportunity to work across domains —
+                from self-driving simulators to AR-based electronics learning
+                apps, to award-winning XR training platforms. My collaborations
+                span academic research labs, pharmaceutical R&D, and real-world
+                manufacturing workflows. I aim to bridge the gap between deep
+                tech and real-world utility by crafting intelligent, accessible
+                3D systems.
               </p>
             </CardContent>
           </Card>
