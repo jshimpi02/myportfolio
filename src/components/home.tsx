@@ -8,7 +8,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 function Home() {
   return (
-    <div className="min-h-screen bg-background px-[11.75px] py-0.5 flex flex-row">
+    <div className="min-h-screen bg-background px-[11.75px] py-0.5 flex flex-col">
       <About>
         <div className="w-[628px] h-[319px]"></div>
       </About>

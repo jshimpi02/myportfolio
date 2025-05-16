@@ -13,7 +13,7 @@ function App() {
   return (
     <Suspense fallback={<p>Loading...</p>}>
       <div className="app-container">
-        <Routes>
+        <Routes className="flex flex-col">
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="projects" element={<Projects />} />
